@@ -1,0 +1,44 @@
+.mainname{ 
+    color: cadetblue;
+    font-weight: 100;
+    text-align: center;
+    background-color: tomato;
+
+}
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 7pc;
+    width: 70pc;
+  }
+
+.te{
+    width: 30%; 
+    border: 10px solid green;
+    table-layout: auto;
+    width: 50pc;
+    height: 20pc; 
+}
+.body{
+    background-color: antiquewhite;
+}
+.p{
+    background-color: black;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+
+    
+}
+
+.imag {
+    margin-left:60%;
+    margin-right:10%;
+    margin-top: -20%;
+    margin-bottom:1% ;
+    height: 15pc;
+    width: 15pc;
+  }
